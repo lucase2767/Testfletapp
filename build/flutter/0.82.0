@@ -1,0 +1,7 @@
+Running build hooks...Running build hooks...Running package command
+Extra PyPi indexes: [https://pypi.flet.dev]
+Created temp directory: C:\Users\Lucas\AppData\Local\Temp\serious_python_temp45aac49d
+Copying Python app from C:\Users\Lucas\Videos\Python\Desenvolvimento mobile\testapp\src to a temp directory
+Creating app archive at C:\Users\Lucas\Videos\Python\Desenvolvimento mobile\testapp\build\flutter\app/app.zip from a temp directory
+Writing app archive hash to C:\Users\Lucas\Videos\Python\Desenvolvimento mobile\testapp\build\flutter\app/app.zip.hash
+Deleting temp directory
